@@ -1,7 +1,7 @@
 # Useful-Links
 Useful links for what we do
 
-PowerShell
+        PowerShell
 
 Hey, Scripting Guy! Blog
 
@@ -28,14 +28,14 @@ Pillage the Village - The PowerShell version
 http://www.labofapenetrationtester.com/2015/04/pillage-the-village-powershell-version.html
 
 
-Python
+        Python
 
 Python Tools for Pen Testers
 
 http://halitalptekin.tumblr.com/post/30099796541/python-tools-for-penetration-testers
 
 
-Dan Miessler Blog - https://danielmiessler.com/study/
+        Dan Miessler Blog - https://danielmiessler.com/study/
 
 A tcpdump Tutorial and Primer
 
@@ -70,7 +70,7 @@ A Subnetting Primer
 https://danielmiessler.com/study/subnetting/
 
 
-Misc Links
+        Misc Links
 
 How I got root with Sudo
 
@@ -101,8 +101,7 @@ Life of a Pen Tester Useful Tutorials
 http://lifeofpentester.blogspot.com/2013/10/table-of-contents-life-of-penetration.html
 
 
-Training Materials (Vulnerable VMs)
-
+        Training Materials (Vulnerable VMs)
 
 Exploit Exercises
 
